@@ -1,3 +1,5 @@
+Token Information
+
 
 A next generation smart contract and decentralized application platform for crypto revolution
 
